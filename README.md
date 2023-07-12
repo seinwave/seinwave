@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Matt Seidholz, a software engineer in Brooklyn.
+
+I like React, I like Rails, I like it when a product does what it's supposed to do. And this page is very much 🚧🚧 under construction 🚧🚧. 
+
+Further biographical details TKTK!
+
 <!--
 **seinwave/seinwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

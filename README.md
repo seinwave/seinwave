@@ -1,7 +1,6 @@
 ## Hi, I'm Matt Seidholz 👋
 
-Software engineer in Brooklyn. I like **React**, I like **Rails**, I like it when a product does what it's supposed to do - and looks good doing it.
+Software engineer in Brooklyn. I like working on climate-y tech projects. Though there's room for some other stuff, too. 
  
-- 🌱 Currently learning: the finer points of Rails and data modeling
-- 🔭 Currently working on: [BBG Roses](https://github.com/seinwave/rose_garden) - an interactive map for the rose gardens at BBG.
-- 💬 Ask me about: judo, plants, accessibility, puppy-raising, ORMs, etc, etc.
+- 👷 Currently: Building 🔌🚙 stuff at EnergyHub.
+- 💬 Ask me about: judo, piano, dog-parenthood, etc, etc.
